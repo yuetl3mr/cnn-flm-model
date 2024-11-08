@@ -2,6 +2,7 @@
 **The project develops a model using Convolutional Neural Networks (CNN) to detect facial landmarks.**
 
 Here is a sample gif showing the detection result : 
+
 ![demo](https://github.com/user-attachments/assets/c4579b3b-fd3f-4e31-887b-d944dd22c77e)
 
 ## Installation
