@@ -1,5 +1,5 @@
-﻿# gaze-control
-**The project implements real-time gaze tracking by detecting facial landmarks using a convolutional neural network (CNN) built on TensorFlow. This allows users to control the interface with their eye movements.**
+﻿# cnn-flm-model
+**The project develops a model using Convolutional Neural Networks (CNN) to detect facial landmarks.**
 
 Here is a sample gif showing the detection result : 
 ![demo](https://github.com/user-attachments/assets/c4579b3b-fd3f-4e31-887b-d944dd22c77e)
@@ -7,7 +7,7 @@ Here is a sample gif showing the detection result :
 ## Installation
 Just git clone this repo and you are good to go.
 ```bash
-git clone https://github.com/yuetl3mr/gaze-control.git
+git clone https://github.com/yuetl3mr/cnn-flm-model.git
 ```
 
 ## Usage
