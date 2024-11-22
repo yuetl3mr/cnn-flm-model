@@ -2,7 +2,6 @@
 
 import tensorflow as tf
 
-
 def _parse(example):
     """Extract data from a `tf.Example` protocol buffer.
     Args:
