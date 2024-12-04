@@ -11,13 +11,6 @@ Just git clone this repo and you are good to go.
 git clone https://github.com/yuetl3mr/cnn-flm-model.git
 ```
 
-## Usage
-
-```bash
-cd test
-python test.py
-```
-
 ## Train & evaluate
 
 ```bash
@@ -28,7 +21,6 @@ python3 landmark.py \
     --epochs=10
 ```
 Training and testing files are required to be stored as TensorFlow Record files. 
-
 
 
 
